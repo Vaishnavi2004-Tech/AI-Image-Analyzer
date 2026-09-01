@@ -1,12 +1,8 @@
 # AI Image Analyzer
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Vaishnavi2004-Tech/AI-Image-Analyzer)
-![GitHub stars](https://img.shields.io/github/stars/Vaishnavi2004-Tech/AI-Image-Analyzer?style=social)
-![GitHub forks](https://img.shields.io/github/forks/Vaishnavi2004-Tech/AI-Image-Analyzer?style=social)
-![GitHub issues](https://img.shields.io/github/issues/Vaishnavi2004-Tech/AI-Image-Analyzer)
-![GitHub license](https://img.shields.io/github/license/Vaishnavi2004-Tech/AI-Image-Analyzer)
+AI Image Analyzer is a **full-stack AI-powered application** that allows users to upload or capture images and analyze them using advanced AI models. It can detect objects, generate scene descriptions, perform gender analysis, display annotated results, export analysis reports as PDF, and maintain a history of previous analyses.
 
-A full‑stack project combining **React frontend**, **Flask AI microservice**, and **Spring Boot backend** for image analysis using YOLOv8 + BLIP captioning.
+The application integrates a **React frontend**, **Flask-based AI microservice**, and **Spring Boot backend with MySQL**. It uses **YOLOv8 for object detection** and **BLIP for image captioning**, providing an end-to-end solution for intelligent image analysis.
 
 ---
 
