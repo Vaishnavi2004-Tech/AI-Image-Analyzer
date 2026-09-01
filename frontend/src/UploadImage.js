@@ -371,7 +371,7 @@ const handleGenderDetect = async () => {
     src={preview}
     alt="preview"
     style={{
-      maxWidth: "400px",   // reduce size
+      maxWidth: "800px",
       height: "auto",
       borderRadius: "6px",
       display: "block",

@@ -1,6 +1,6 @@
 .upload-container {
   padding: 30px;
-  max-width: 900px;
+  max-width: 1000px;
   margin: auto;
   font-family: "Cambria", Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   color: #333;
@@ -45,7 +45,7 @@ button:hover {
 
 .preview-wrapper img {
   display: block;
-  max-width: 400px;   /* smaller preview size */
+  max-width: 400px;
   height: auto;
   object-fit: contain;
   border: 2px solid #ccc;
