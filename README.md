@@ -1,5 +1,3 @@
----
-```markdown
 # AI Image Analyzer
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Vaishnavi2004-Tech/AI-Image-Analyzer)
@@ -119,6 +117,3 @@ Aspiring Java Developer | Software Developer | QA Engineer
 
 💻 GitHub: https://github.com/Vaishnavi2004-Tech
 ```
-
----
-
